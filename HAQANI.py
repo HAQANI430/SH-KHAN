@@ -1,3 +1,2 @@
 import os,platform
-os.system('git pull')
-import MR.
+os.system('git pull'
